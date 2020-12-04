@@ -34,13 +34,21 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Think of semantic HTMl like a label on a box. non sematic HTMl tags like div are just boxs so there is no telling what is inside of them but semantic HTMl like header is more specific. So you have the gist of whats inside the box.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
+display block makes the element a block level element while inline makes it inline. Block level elements start on a new line and take up the full width available. Whole inine do not start on a new line and only take up as much width as necessary.
+
 3. What are the 4 areas of the box model?
+content, padding, border, margin.
+
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+Cross section.
 
 5. Explain why git is valuable to a team of developers.
+Git is amazing becasue it allows a team of developers to work on the same project all at once. You can push your work into the main code. Its really cool! It also allows you to go back to past versions if something gets messed up along the way.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
